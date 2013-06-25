@@ -18,4 +18,4 @@ Acts like "Save All" in other applications (text editors, development environmen
 Place Multiple.jsx
 ------------------
 
-The default "Place" action only supports selecting a single file. This action displays a dialog where multiple files can be selected, then places each image as a Smart Object onto your document.
+Displays a dialog where multiple files can be selected, then places each image as a Smart Object onto your document. The default "Place" action only supports selecting a single file.
